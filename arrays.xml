@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gcm_network_config_names">
+        <item>@string/service_status_disabled_short</item>
+        <item>@string/gcm_status_pref_default</item>
+        <item>Phản hồi Ping: 2 phút</item>
+        <item>Phản hồi Ping: 5 phút</item>
+        <item>Phản hồi Ping: 10 phút</item>
+        <item>Phản hồi Ping: 15 phút</item>
+        <item>Phản hồi Ping: 20 phút</item>
+        <item>Phản hồi Ping: 30 phút</item>
+    </string-array>
+</resources>
